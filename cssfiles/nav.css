@@ -1,0 +1,24 @@
+
+
+.bar{
+    padding-left: 50px;
+    padding-top: 0;
+    color:white;
+}
+a:hover{
+    color: gray;
+    
+}
+a{
+    text-decoration: none !important;
+    padding: 40px;
+}
+.nagAchor{
+    color: pink;
+}
+#offset{
+    margin-left: 700px;
+}
+nav{
+    background: black;
+}

@@ -1,0 +1,21 @@
+.userProfile{
+    
+    height: 500px;
+    height: 300px;
+    width: auto;
+}
+.profile{
+    border: solid;
+}
+.greet{
+    text-align: center;
+    border: 30px;
+}
+.memberlist{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding: 100px;
+}
+p{
+    text-align: center;
+}

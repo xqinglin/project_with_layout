@@ -1,0 +1,17 @@
+.userProfile{
+    height: 450px;
+    width: auto;
+    padding-left:  150px;
+    padding-top:  50px;
+}
+.profile{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+h2{
+    padding-left: 400px;
+    padding-bottom: 0;
+}
+.upperContent{
+    padding-left:100px;
+}
