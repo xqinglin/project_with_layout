@@ -1,5 +1,4 @@
 
-
 .bar{
     padding-left: 50px;
     padding-top: 0;
@@ -21,4 +20,10 @@ a{
 }
 nav{
     background: black;
+
+}
+body{
+    top:0;
+    margin: 0;
+    padding: 0;    
 }

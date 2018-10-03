@@ -19,3 +19,12 @@
 p{
     text-align: center;
 }
+.profile:hover{
+    background: pink;
+}
+.profile i:hover{
+    color: red;
+}
+i:hover{
+    color: blueviolet;
+}
