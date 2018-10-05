@@ -6,6 +6,8 @@
 }
 .profile{
     border: solid;
+    padding:10px;
+    margin: 10px;
 }
 .greet{
     text-align: center;
