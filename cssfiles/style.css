@@ -1,0 +1,130 @@
+/* navgation bar */
+.bar{
+    padding-left: 50px;
+    padding-top: 0;
+    color:white;
+}
+a:hover{
+    color: gray;
+}
+a{
+    text-decoration: none !important;
+    padding: 40px;
+}
+.nagAchor{
+    color: pink;
+}
+#offset{
+    margin-left: 700px;
+}
+nav{
+    background: black;
+}
+/* landing page */
+body{
+    top:0;
+    margin: 0;
+    padding: 0;    
+}
+h3{
+    color: black;
+    font-family: 'Srisakdi', cursive;
+}
+.landing_index{
+    color: black;
+    background-image: url(../images/maria-shanina-73382-unsplash.jpg);
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.greeting{
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    padding: 300px;
+}
+/* list of member */
+
+.userProfile{
+    
+    height: 500px;
+    height: 300px;
+    width: auto;
+}
+.profile{
+    border: solid;
+    padding:10px;
+    margin: 10px;
+}
+.greet{
+    text-align: center;
+    border: 30px;
+}
+.memberlist{
+    display:grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding: 100px;
+}
+
+.profile:hover{
+    background: pink;
+}
+.profile i:hover{
+    color: red;
+}
+i:hover{
+    color: blueviolet;
+}
+/* Strong */
+
+.userProfile_strong{
+    height: 450px;
+    width: auto;
+    padding-left:  150px;
+    padding-top:  50px;
+}
+.profile_strong{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+.upperContent{
+    padding-left:100px;
+}
+
+i:hover{
+    color: pink;
+}
+.upperContent h1:hover{
+    color: blue;
+}
+/* survey */
+.cuddle{
+    width: 1000px;
+    height: quto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.quizContent{
+   padding-left:200px;
+   padding-left:50;
+}
+.description{
+    padding:100px;
+}
+.lovequize{
+    text-align: center;
+    padding-bottom: 0;
+}
+.intro_survey{
+    font-family: 'Tangerine', serif;
+    font-size: 20px;
+  }
+i:hover{
+    color: palegreen;
+  }

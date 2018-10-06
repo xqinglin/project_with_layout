@@ -19,8 +19,9 @@ h1{
     text-align: center;
     padding-bottom: 0;
 }
-p {
+.intro_survey{
     font-family: 'Tangerine', serif;
+    font-size: 20px;
   }
 i:hover{
     color: palegreen;
