@@ -34,6 +34,7 @@ h3{
     color: black;
     background-image: url(../images/maria-shanina-73382-unsplash.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
     position: fixed;
     top: 0;
     left: 0;
